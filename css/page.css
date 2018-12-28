@@ -5,6 +5,7 @@ Made with love by Creative Tim (http://www.creative-tim.com)
 */
 
 body {
+  font-family: "Orbitron", sans-serif !important;
 }
 .form-control::-moz-placeholder {
   color: #dddddd;
@@ -961,7 +962,7 @@ fieldset[disabled] .btn-warning.active {
   z-index: 3;
 }
 .main .logo.cursive {
-  font-family: "Grand Hotel", cursive;
+  font-family: "Orbitron", sans-serif;
   font-size: 82px;
 }
 .main .content {
@@ -969,6 +970,7 @@ fieldset[disabled] .btn-warning.active {
   z-index: 4;
 }
 .main .motto {
+  font-family: "Orbitron", sans-serif !important;
   min-height: 140px;
 }
 .main .motto,
